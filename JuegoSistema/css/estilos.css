@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    height: 100vh;
+    background: linear-gradient(27deg, #2b243b 50%, #373d5f 50%);
+    
+}
+
+h1{
+    
+    font-family: 'cursive', monospace;
+    text-align: center;
+    color: white;
+}
+
+div{
+    text-align: center;
+    outline: none;
+    padding: 20px;
+    display: block;
+    width: 200px;
+    border-radius: 3000px;
+    border: 1px solid rgb(12, 161, 206);
+    margin: 21px auto;
+    background-color: rgb(11, 1, 26);
+}
+
+header {
+    border-bottom: 2px solid #eee;
+    padding: 20px 0;
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+    header a {
+    font-family: cursive, monospace;
+    font-size: 30px;
+    text-decoration: none;
+    color:coral;
+}
